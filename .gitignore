@@ -5,3 +5,6 @@
 **/.ipynb_checkpoints/
 **/.cache/
 .vscode
+MiniProjects/venv/
+**/.venv/
+**.DS_Store
